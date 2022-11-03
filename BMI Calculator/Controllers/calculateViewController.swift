@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  BMI Calculator
 //
-//  Created by null
+//  Created by Qurt on 7/7/22.
 
 
 import UIKit
